@@ -1,6 +1,6 @@
 {
   "name": "sigal-test",
   "description": "Skills de test pour valider l'installation de la marketplace SIGAL",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": { "name": "Nathan Bertaud" }
 }

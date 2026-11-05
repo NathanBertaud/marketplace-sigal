@@ -14,7 +14,7 @@ Marketplace de plugins et skills Claude Code SIGAL.
 
 | Plugin | Skills | Rôle |
 |---|---|---|
-| `sigal-test` | `test-bonjour`, `test-environnement` | Vérifier que la marketplace est chargée |
+| `sigal-test` | `test-bonjour`, `test-environnement`, `maman-jai-rate-lavion` | Vérifier que la marketplace est chargée |
 | `sigal-test-outils` | `test-compteur-lignes` | Vérifier qu'un skill peut lancer un script embarqué |
 
 ## Ajouter un plugin
