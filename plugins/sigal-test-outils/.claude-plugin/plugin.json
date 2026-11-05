@@ -1,0 +1,6 @@
+{
+  "name": "sigal-test-outils",
+  "description": "Skill de test utilisant un script embarqué dans le plugin",
+  "version": "0.1.0",
+  "author": { "name": "Nathan Bertaud" }
+}

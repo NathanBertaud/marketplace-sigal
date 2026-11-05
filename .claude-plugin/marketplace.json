@@ -1,0 +1,27 @@
+{
+  "name": "marketplace-sigal",
+  "owner": {
+    "name": "Nathan Bertaud",
+    "email": "nbertaud@sigal.fr"
+  },
+  "metadata": {
+    "description": "Marketplace de plugins et skills Claude Code SIGAL",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "sigal-test",
+      "source": "./plugins/sigal-test",
+      "description": "Skills de test pour valider l'installation de la marketplace",
+      "version": "0.1.0",
+      "category": "test"
+    },
+    {
+      "name": "sigal-test-outils",
+      "source": "./plugins/sigal-test-outils",
+      "description": "Skill de test utilisant un script embarqué",
+      "version": "0.1.0",
+      "category": "test"
+    }
+  ]
+}
